@@ -1,0 +1,28 @@
+{
+  "name": "grantedbyme",
+  "version": "1.0.3",
+  "description": "Instant secure login without password",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha > publish/tests.xml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/grantedbyme/gbm-nodejs-sdk.git"
+  },
+  "keywords": [
+    "grantedbyme",
+    "passwordless",
+    "authentication",
+    "sdk"
+  ],
+  "author": "GrantedByMe",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/grantedbyme/gbm-nodejs-sdk#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "dependencies": {    
+    "request": "^2.74.0"
+  }
+}

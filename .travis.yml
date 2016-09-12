@@ -1,0 +1,14 @@
+# grantedbyme-nodejs-sdk
+language: node_js
+node_js:
+  - "6"
+  - "6.1"
+  - "5.11"
+  - "0.6"
+# command to install dependencies
+install:
+  - npm install
+# command to run tests
+script:
+  - ls
+
