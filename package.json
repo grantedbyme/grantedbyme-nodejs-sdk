@@ -1,6 +1,6 @@
 {
   "name": "grantedbyme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Instant secure login without password",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "devDependencies": {
     "chai": "^3.5.0"
   },
-  "dependencies": {    
+  "dependencies": {
     "request": "^2.74.0"
   }
 }
