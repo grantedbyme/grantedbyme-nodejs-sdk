@@ -1,6 +1,6 @@
 {
   "name": "grantedbyme",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Instant secure login without password",
   "main": "index.js",
   "scripts": {
